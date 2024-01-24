@@ -25,7 +25,7 @@ site:
     class: text
     # 具体内容 例如：scoicon sco-logo / 王卓Sco / https://p.sondy.top/logo.png
     # Specific content, for example: scoicon sco-logo / 王卓Sco / https://p.sondy.top/logo.png
-    custom: Solitude
+    custom: lisui
   # 网页icon
   # Web icon
   siteIcon: https://bu.dusays.com/2023/11/08/654af68b25bb8.jpg
@@ -34,7 +34,7 @@ site:
   icon: https://bu.dusays.com/2023/11/08/654af68b25bb8.jpg
   # ICP 例如：湘ICP备2023015327号
   # ICP, for example: 湘ICP备2023015327号
-  icp: 
+  icp: 本站由蓝奏云CDN提供
   # ICP链接 例如：http://www.beian.miit.gov.cn/
   # ICP link, for example: http://www.beian.miit.gov.cn/
   icp_url: 
